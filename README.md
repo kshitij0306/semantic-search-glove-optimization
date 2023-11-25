@@ -1,4 +1,3 @@
-# semantic-search-glove-optimization
 # Semantic Search with GloVe Optimization
 
 Welcome to the Semantic Search with GloVe Optimization project! This repository contains an enhanced semantic search algorithm using GloVe word embeddings for efficient navigation of WordNet.
